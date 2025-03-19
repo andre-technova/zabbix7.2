@@ -3,7 +3,7 @@ Script de Implantação Automatizada do Zabbix 7.2
 Versão
 19.3.25
 
-Autor
+Autor:
 André Rodrigues
 technova.sti@outlook.com
 
@@ -91,12 +91,13 @@ Em caso de dúvidas, sugestões ou contribuições, entre em contato através do
 Esta documentação serve para orientar os administradores e desenvolvedores na utilização e manutenção do script, garantindo uma implantação eficiente do Zabbix 7.2 com as configurações necessárias para ambientes de produção.
 
 ============================================================================================================
+
 Zabbix 7.2 Automated Deployment Script
 
 Version
 19.3.25
 
-Author
+Author:
 André Rodrigues
 technova.sti@outlook.com
 
@@ -183,12 +184,13 @@ If you have any questions, suggestions or contributions, please contact technova
 
 This documentation is intended to guide administrators and developers in the use and script maintenance, ensuring an efficient deployment of Zabbix 7.2 with the necessary configurations for production environments.
 ============================================================================================================
+
 Script de implementación automatizada de Zabbix 7.2
 
 Versión
 19.3.25
 
-Autor
+Autor:
 André Rodrigues
 technova.sti@outlook.com
 
